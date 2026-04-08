@@ -1,4 +1,4 @@
-## ㅇㅅㅇ 👋
+## print(Hello world)🥐
 
 <!--
 **Liquid-h/Liquid-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
