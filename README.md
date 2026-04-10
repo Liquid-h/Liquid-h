@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ## Halo~! :P
 
-🌱 **[There is Growing Plants](https://Liquid-h.github.io/Growing-Plant/)**
+🌱 **[There is Growing Plants](https://Liquid-h.github.io/Growing-Plant/Growing-Plant-Main.html)**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Liquidh)](https://solved.ac/Liquidh)
