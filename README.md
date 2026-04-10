@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 🌱 **[There is Growing Plants](https://liquid-h.github.io/Growing-Plant/)**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Liquidh)](https://solved.ac/Liquidh)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liquid-h&show_icons=true&theme=tokyonight)
